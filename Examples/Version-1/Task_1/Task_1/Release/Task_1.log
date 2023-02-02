@@ -1,0 +1,57 @@
+﻿  control.cpp
+D:\program\C\Dis\Task_1\Task_1\control.cpp(13,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  solver.cpp
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(46,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(46,11): message : 请考虑在格式字符串中使用“%lld”
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(46,11): message : 请考虑在格式字符串中使用“%I64d”
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(51,30): warning C4244: “参数”: 从“time_t”转换到“int”，可能丢失数据
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(9,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(10,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(50,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(94,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(97,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(107,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(112,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\solver.cpp(120,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  sud.cpp
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(33,27): warning C4244: “参数”: 从“time_t”转换到“int”，可能丢失数据
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(38,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(38,9): message : 请考虑在格式字符串中使用“%lld”
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(38,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(11,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(18,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(32,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(36,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(116,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(120,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(122,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(131,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(129,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(134,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(159,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(171,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(172,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(192,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(217,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(242,20): warning C4244: “参数”: 从“time_t”转换到“int”，可能丢失数据
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(225,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(233,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(241,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(246,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(247,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(251,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(261,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(265,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(267,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(278,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(297,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(301,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(316,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1\Task_1\sud.cpp(322,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 38 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Task_1.vcxproj -> D:\program\C\Dis\Task_1\Release\Task_1.exe

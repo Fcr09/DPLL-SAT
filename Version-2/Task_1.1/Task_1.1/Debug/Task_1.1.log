@@ -1,0 +1,15 @@
+﻿  solver.cpp
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(46,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(46,11): message : 请考虑在格式字符串中使用“%lld”
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(46,11): message : 请考虑在格式字符串中使用“%I64d”
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(51,30): warning C4244: “参数”: 从“time_t”转换到“int”，可能丢失数据
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(10,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(11,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(50,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(90,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(93,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(102,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(105,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\program\C\Dis\Task_1.1\Task_1.1\solver.cpp(111,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Task_1.1.vcxproj -> D:\program\C\Dis\Task_1.1\Debug\Task_1.1.exe
